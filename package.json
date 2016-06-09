@@ -1,0 +1,14 @@
+{
+  "name": "asokumiko",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "v5.8.x",
+    "npm": "3.7.x"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
